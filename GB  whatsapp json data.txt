@@ -52,4 +52,3 @@
 		"facebook_rewarde2": "ca-app-pub-4567"
 	}  
    }
-//sf hahiya data dyalo  sf db howa hadak dir test dyalk db 
